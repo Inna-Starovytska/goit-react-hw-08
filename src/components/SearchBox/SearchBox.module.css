@@ -4,19 +4,20 @@
   margin: 10px 0;
   border: 2px solid rgb(64, 65, 64);
   border-radius: 4px;
-  padding: 12px;
-  display: block;
+  padding: 10px;
+ 
 }
 
 .text {
-  font-size: 30px;
+  font-size: 24px;
   font-weight: bold;
   padding: 24px 0 24px 0;
+  text-align: center;
 }
 
 .input {
   width: 95%;
-  height: 30px;
+  height: 24px;
   font-size: 16px;
   padding-left: 8px;
   padding-right: 8px;
